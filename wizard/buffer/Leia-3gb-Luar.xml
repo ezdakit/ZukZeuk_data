@@ -1,0 +1,36 @@
+<!-- Creado by Teco -->
+<advancedsettings>
+    <video>
+        <allowmpeg4vaapi>true</allowmpeg4vaapi>
+        <checkdxvacompatibility>true</checkdxvacompatibility>
+        <fpsdetect>1</fpsdetect>
+        <autoscalemaxfps>30</autoscalemaxfps>
+        <defaultplayer>VideoPlayer</defaultplayer>
+        <fullscreenonmoviestart>true</fullscreenonmoviestart>
+        <enablehighqualityhwscalers>true</enablehighqualityhwscalers>
+        <dxvaallowhqscaling>false</dxvaallowhqscaling>
+    </video>
+    <gui>
+        <algorithmdirtyregions>3</algorithmdirtyregions>
+        <nofliptimeout>0</nofliptimeout>
+    </gui>
+    <videoscanner>
+        <ignoreerrors>true</ignoreerrors>
+    </videoscanner>
+    <network>
+        <alwaysforcebuffer>true</alwaysforcebuffer>
+        <autodetectpingtime>30</autodetectpingtime>
+        <curlclienttimeout>30</curlclienttimeout>
+        <curllowspeedtime>60</curllowspeedtime>
+        <airplayport>20</airplayport>
+        <airtunesport>2</airtunesport>
+        <disableipv6>true</disableipv6>
+        <curlretries>3</curlretries>
+    </network>
+    <cache>
+        <buffermode>2</buffermode>
+        <freememorycachepercent>5</freememorycachepercent>
+        <memorysize>629145600</memorysize>
+        <readfactor>30.0</readfactor>
+    </cache>
+</advancedsettings>

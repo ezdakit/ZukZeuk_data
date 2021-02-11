@@ -1,0 +1,39 @@
+name="STVAMC"
+section="no"
+url="https://stva.zriel.net/wizard/apks/STVAMC.apk"
+icon="https://stva.zriel.net/wizard/imagenes/stvamc.png"
+fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+adult="no"
+description="Fork de Kodi"
+
+
+name="KLMEDIA"
+section="no"
+url="https://stva.zriel.net/wizard/apks/KLMEDIA.apk"
+icon="https://stva.zriel.net/wizard/imagenes/spmc17.png"
+fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+adult="no"
+description="Apps que son Modificaciones de Kodi"
+
+
+name="Ace Stream Media 3.1.42.6"
+section="no"
+url="https://stva.zriel.net/wizard/apks/AceStreamMediav.3.1.42.6.apk"
+icon="https://image.winudf.com/v2/image/b3JnLmFjZXN0cmVhbS5tZWRpYV9pY29uXzE1MjY1NTEzNjBfMDkw/icon.png?w=170&fakeurl=1&type=.png"
+fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+adult="no"
+description="Ace Stream Media, necesario para ver deportes"
+
+
+name="STVAWEB"
+section="no"
+url="http://bit.ly/35lRfXM"
+icon="https://stva.zriel.net/wizard/imagenes/stvaweb.png"
+fanart="https://stva.zriel.net/wizard/imagenes/fanart.jpg"
+adult="no"
+description="App de la web stva"
+
+
+
+
+
