@@ -1,4 +1,4 @@
-id="plugin.program.stva"
+id="plugin.program.zukzeuk"
 version="0.0.9"
 zip=""
 
