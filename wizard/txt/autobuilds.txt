@@ -1,6 +1,6 @@
-id="plugin.program.stva"
-version="3.7"
-zip="https://stva.zriel.net/plugin.program.stva.zip"
+id="plugin.program.zukzeuk"
+version=""
+zip=""
 
 name="BASE ZUKZEUK"
 version="1.0"
