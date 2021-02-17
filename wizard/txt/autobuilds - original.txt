@@ -15,7 +15,7 @@ adult="No"
 info="http://"
 description="Para mas info visita la  web: stva.ga"
 
-name="BASE ZUKZEUK"
+name="BASE ARCTIC"
 version="3.1"
 url="http://bit.ly/2AY4Mam"
 gui=""
