@@ -1,0 +1,17 @@
+id="plugin.program.zukzeuk"
+version="0.0.9"
+zip=""
+
+name="BASE ZUKZEUK"
+version="1.0"
+url="https://github.com/ezdakit/ZukZeuk_data/releases/download/VERSIONES/BASE_ZUKZEUK_01.zip"
+gui=""
+kodi="18"
+theme="http://"
+icon="https://github.com/ezdakit/ZukZeuk_data/raw/master/wizard/imagenes/base_zukzeuk.png"
+fanart="https://github.com/ezdakit/ZukZeuk_data/raw/master/wizard/imagenes/base_zukzeuk.png"
+preview=""
+adult="No"
+info="http://"
+description="Base Arctic Horizon para Kodi 18"
+
