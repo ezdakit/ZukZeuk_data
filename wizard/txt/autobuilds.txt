@@ -4,7 +4,7 @@ zip="https://stva.zriel.net/plugin.program.stva.zip"
 
 name="BASE ZUKZEUK"
 version="1.0"
-url="https://github.com/ezdakit/ZukZeuk_data/releases/download/VERSIONES/BASE_ZUKZEUK_01.zip"
+url="http://bit.ly/2AY4Mam"
 gui=""
 kodi="18"
 theme="http://"
