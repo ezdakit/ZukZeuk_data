@@ -39,7 +39,7 @@ fanart="https://"
 preview=""
 adult="No"
 info="http://"
-description="Configuracion de menus"
+description="Menus"
 
 name=""
 version="0"
