@@ -1,9 +1,9 @@
 id="plugin.program.zukzeuk2"
-version="0.2.0"
+version="1.0.0"
 zip="url.to.wizard"
 
-name="Base ZukZeuk_2"
-version="2.0"
+name="Base ZukZeuk2"
+version="1.0"
 url="8https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_aura_1-0.zip"
 minor="http://"
 gui="url.to.guisettings"
