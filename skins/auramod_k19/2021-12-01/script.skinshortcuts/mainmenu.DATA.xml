@@ -1,0 +1,59 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>VIDEOTECA</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SPORTS</label>
+		<label2>Elemento Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.winner",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>livetv</defaultID>
+		<label>$SKIN[31103|skin.auramod|None]</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/livetv.png</icon>
+		<thumb />
+		<action>ActivateWindow(TVChannels)</action>
+		<visible>PVR.HasTVChannels</visible>
+		</shortcut>
+	<shortcut>
+		<defaultID>settings</defaultID>
+		<label>AJUSTES</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/settings.png</icon>
+		<thumb />
+		<action>ActivateWindow(Settings)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID>power</defaultID>
+		<label>APAGAR</label>
+		<label2>Common Shortcut</label2>
+		<icon>special://skin/extras/icons/power.png</icon>
+		<thumb />
+		<action>ActivateWindow(shutdownmenu)</action>
+		</shortcut>
+	</shortcuts>

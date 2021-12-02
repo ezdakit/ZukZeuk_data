@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJzZWFyY2giLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcbWFnbmlmeWluZ2dsYXNzLnBuZyIsIAogICAgInRpdGxlIjogIkJ1c2NhciIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MIS SERIES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9zZXJpZXMiLCAKICAgICJjYXRlZ29yeSI6ICJNaSB2aWRlb3RlY2EiLCAKICAgICJjaGFubmVsIjogInRyYWNraW5nIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFByb2dyYW0gRmlsZXNcXEtvZGlcXHBvcnRhYmxlX2RhdGFcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXHR2LnBuZyIsIAogICAgInRpdGxlIjogIlNlcmllcyAoMSkiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MIS PELIS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9wZWxpcyIsIAogICAgImNhdGVnb3J5IjogIk1pIHZpZGVvdGVjYSIsIAogICAgImNoYW5uZWwiOiAidHJhY2tpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcY2xhcGJvYXJkLnBuZyIsIAogICAgInRpdGxlIjogIlBlbMOtY3VsYXMgKDApIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>GÉNEROS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/genre.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdCIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJnZW5lcm9zIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFByb2dyYW0gRmlsZXNcXEtvZGlcXHBvcnRhYmxlX2RhdGFcXGFkZG9uc1xccGx1Z2luLnZpZGVvLmJhbGFuZHJvXFxyZXNvdXJjZXNcXG1lZGlhXFx0aGVtZXNcXGRlZmF1bHRcXHN3YXRjaGVzLnBuZyIsIAogICAgInRpdGxlIjogIkfDqW5lcm9zIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELIS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJtYWlubWVudSIsIAogICAgImV4dHJhIjogIm1vdmllcyIsIAogICAgImluZm9MYWJlbHMiOiB7fSwgCiAgICAidGh1bWJuYWlsIjogIkM6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxjbGFwYm9hcmQucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SERIES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJtYWlubWVudSIsIAogICAgImV4dHJhIjogInR2c2hvd3MiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdHYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzIgp9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DOCUMENTALES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/cinemavision.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJjaGFubmVscyIsIAogICAgImNhdGVnb3J5IjogIkJhbGFuZHJvIiwgCiAgICAiY2hhbm5lbCI6ICJtYWlubWVudSIsIAogICAgImV4dHJhIjogImRvY3VtZW50YXJpZXMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcUHJvZ3JhbSBGaWxlc1xcS29kaVxccG9ydGFibGVfZGF0YVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcZ2VuaXVzLnBuZyIsIAogICAgInRpdGxlIjogIkRvY3VtZW50YWxlcyIKfQ%3D%3D",return)</action>
+	</shortcut>
+</shortcuts>

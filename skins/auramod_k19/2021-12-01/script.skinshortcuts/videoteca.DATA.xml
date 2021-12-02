@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>titulos</defaultID>
+		<label>BALANDRO MIS SERIES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>special://skin/extras/icons/files.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9zZXJpZXMiLCAKICAgICJjYXRlZ29yeSI6ICJNaSB2aWRlb3RlY2EiLCAKICAgICJjaGFubmVsIjogInRyYWNraW5nIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxXaW50dGVyc1xcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdHYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzICgzKSIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>titulos</defaultID>
+		<label>BALANDRO MIS PELIS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>special://skin/extras/icons/files.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9wZWxpcyIsIAogICAgImNhdGVnb3J5IjogIk1pIHZpZGVvdGVjYSIsIAogICAgImNoYW5uZWwiOiAidHJhY2tpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICJDOlxcVXNlcnNcXFdpbnR0ZXJzXFxBcHBEYXRhXFxSb2FtaW5nXFxLb2RpXFxhZGRvbnNcXHBsdWdpbi52aWRlby5iYWxhbmRyb1xccmVzb3VyY2VzXFxtZWRpYVxcdGhlbWVzXFxkZWZhdWx0XFxjbGFwYm9hcmQucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyAoMCkiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ACTUALIZAR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/update.png</thumb>
+		<action>RunPlugin(plugin://plugin.video.balandro/?channel=actions&amp;action=comprobar_nuevos_episodios)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FAVS PALANTIR</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1GYXZvcml0b3NbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsIGZhbmFydCBmcm9tIG1lbnVzIHdoZXJlIG1lbnVfaWQ9OTAgIE9SREVSIGJ5IGl0ZW1faWQgYXNjJywgJ2ZhbmFydCc6ICcvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8ucGFsYW50aXIyL2ZhbmFydC5naWYnLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9mYXYucG5nJywgJ2FjdGlvbic6ICdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1036</defaultID>
+		<label>FAVS KODI</label>
+		<label2>Ítem de menú Común</label2>
+		<icon>Favourites.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Favourites)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.moestv</defaultID>
+		<label>MOE'S TV</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/antenna.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.moestv",return)</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,66 @@
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Netflix</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJOZXRmbGl4IiwgCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmZpbG1hZmZpbml0eS5jb20vZXMvY2F0X25ld19uZXRmbGl4Lmh0bWwiCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Apple TV+</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJBcHBsZSBUVisiLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmlsbWFmZmluaXR5LmNvbS9lcy9jYXRfYXBwbGVfdHZfcGx1cy5odG1sIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Disney+</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJEaXNuZXkrIiwgCiAgICAidXJsIjogImh0dHBzOi8vd3d3LmZpbG1hZmZpbml0eS5jb20vZXMvY2F0X2Rpc25leXBsdXMuaHRtbCIKfQ%3D%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>HBO</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJIQk8iLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmlsbWFmZmluaXR5LmNvbS9lcy9jYXRfbmV3X2hib19lcy5odG1sIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Movistar+</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJNb3Zpc3RhcisiLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmlsbWFmZmluaXR5LmNvbS9lcy9jYXRfbmV3X21vdmlzdGFyX2YuaHRtbCIKfQ%3D%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Amazon prime</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJBbWF6b24gcHJpbWUiLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmlsbWFmZmluaXR5LmNvbS9lcy9jYXRfbmV3X2FtYXpvbl9lcy5odG1sIgp9",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Novedades en alquiler</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJOb3ZlZGFkZXMgZW4gYWxxdWlsZXIiLCAKICAgICJ1cmwiOiAiaHR0cHM6Ly93d3cuZmlsbWFmZmluaXR5LmNvbS9lcy9jYXRfbmV3X3JlX2VzLmh0bWwiCn0%3D",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Novedades a la venta</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2forg.xbmc.kodi%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fchannels%2fthumb%2ffilmaffinity.jpg/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJsaXN0X2FsbCIsIAogICAgImNhdGVnb3J5IjogIkJ1c2NhciIsIAogICAgImNoYW5uZWwiOiAiZmlsbWFmZmluaXR5bGlzdHMiLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInBsb3QiOiAiVmVyIGxpc3RhcyBkZSBwZWzDrWN1bGFzLCBzZXJpZXMsIGRvY3VtZW50YWxlcyB5IG90cm9zIGRlIEZpbG1hZmZpbml0eSIsIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8uYmFsYW5kcm8vcmVzb3VyY2VzL21lZGlhL2NoYW5uZWxzL3RodW1iL2ZpbG1hZmZpbml0eS5qcGciLCAKICAgICJ0aXRsZSI6ICJOb3ZlZGFkZXMgYSBsYSB2ZW50YSIsIAogICAgInVybCI6ICJodHRwczovL3d3dy5maWxtYWZmaW5pdHkuY29tL2VzL2NhdF9uZXdfc2FfZXMuaHRtbCIKfQ%3D%3D",return)</action>
+		</shortcut>
+	</shortcuts>

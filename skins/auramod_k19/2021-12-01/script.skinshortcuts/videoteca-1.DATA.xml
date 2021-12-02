@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>favoritos</defaultID>
+		<label>FAVORITOS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultMovies.png</icon>
+		<thumb>DefaultMovies.png</thumb>
+		<action>ActivateWindow(Videos,plugin://script.skin.helper.widgets/?action=favourites,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - MIS SERIES</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cWintters%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.balandro%5cresources%5cmedia%5cthemes%5cdefault%5ctv.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9zZXJpZXMiLCAKICAgICJjYXRlZ29yeSI6ICJNaSB2aWRlb3RlY2EiLCAKICAgICJjaGFubmVsIjogInRyYWNraW5nIiwgCiAgICAiaW5mb0xhYmVscyI6IHt9LCAKICAgICJ0aHVtYm5haWwiOiAiQzpcXFVzZXJzXFxXaW50dGVyc1xcQXBwRGF0YVxcUm9hbWluZ1xcS29kaVxcYWRkb25zXFxwbHVnaW4udmlkZW8uYmFsYW5kcm9cXHJlc291cmNlc1xcbWVkaWFcXHRoZW1lc1xcZGVmYXVsdFxcdHYucG5nIiwgCiAgICAidGl0bGUiOiAiU2VyaWVzICgzKSIKfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>BALANDRO - MIS PELIS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://%2fstorage%2femulated%2f0%2fAndroid%2fdata%2fmedia.center.stva%2ffiles%2f.kodi%2faddons%2fplugin.video.balandro%2fresources%2fmedia%2fthemes%2fdefault%2fclapboard.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.balandro/?ewogICAgImFjdGlvbiI6ICJtYWlubGlzdF9wZWxpcyIsIAogICAgImNhdGVnb3J5IjogIk1pIHZpZGVvdGVjYSIsIAogICAgImNoYW5uZWwiOiAidHJhY2tpbmciLCAKICAgICJpbmZvTGFiZWxzIjoge30sIAogICAgInRodW1ibmFpbCI6ICIvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9tZWRpYS5jZW50ZXIuc3R2YS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLmJhbGFuZHJvL3Jlc291cmNlcy9tZWRpYS90aGVtZXMvZGVmYXVsdC9jbGFwYm9hcmQucG5nIiwgCiAgICAidGl0bGUiOiAiUGVsw61jdWxhcyAoMCkiCn0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FAVORITOS PALANTIR</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2ffav.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1GYXZvcml0b3NbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsIGZhbmFydCBmcm9tIG1lbnVzIHdoZXJlIG1lbnVfaWQ9OTAgIE9SREVSIGJ5IGl0ZW1faWQgYXNjJywgJ2ZhbmFydCc6ICcvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8ucGFsYW50aXIyL2ZhbmFydC5naWYnLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9mYXYucG5nJywgJ2FjdGlvbic6ICdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR - MIS SERIES FAVORITAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2fseries_favoritos.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXVNlcmllczpbL0NPTE9SXVtDT0xPUiBnb2xkXVNlcmllcyBmYXZvcml0YXNbL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUiU2VsZWN0IG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLHBvc3Rlciwgc2VyaWVfaWQsIGF1ZGlvLCB0bWRiLCBsaW5rLCBoYXNfY29udGVudCBmcm9tIHNlcmllcyB3aGVyZSBhY3RpdmUgPiAwIGFuZCBzZXJpZV9pZCBpbiAoJXMpIGFuZCBjYXRlZ29yeSBub3QgUkVHRVhQICdEaWJ1am9zfERvY3VtZW50YWx8QW5pbWUnIG9yZGVyIGJ5IG5vbWJyZSBDT0xMQVRFIGxhdGluMTsiLCAnYWN0aW9uJzogdSdmYXZvcml0b3MnLCAncGFnZSc6IDAsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L3Nlcmllc19mYXZvcml0b3MucG5nJ30%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR - MIS PELIS FAVORITAS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2fdibujos_favoritos.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2xhYmVsJzogdSdbQ09MT1IgY2hvY29sYXRlXVBlbFx4ZWRjdWxhczpbL0NPTE9SXVtDT0xPUiBnb2xkXVBlbFx4ZWRjdWxhcyBmYXZvcml0YXNbL0NPTE9SXScsICdjb250ZW50JzogJ2ZpbGVzJywgJ3NxbCc6IHUiU0VMRUNUIG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLCBwb3N0ZXIsIGdyb3VwX2lkLCBHUk9VUF9DT05DQVQodGFncywnIycpLHRtZGIgRlJPTSBwZWxpcyBXSEVSRSBhY3RpdmUgPiAwIGFuZCBncm91cF9pZCBpbiAoJXMpIGFuZCBjYXRlZ29yeSBub3QgUkVHRVhQICdEaWJ1am9zfERvY3VtZW50YWx8QW5pbWUnIGdyb3VwIGJ5IGdyb3VwX2lkIG9yZGVyIGJ5IG5vbWJyZSBDT0xMQVRFIGxhdGluMTsiLCAnYWN0aW9uJzogdSdmYXZvcml0b3MnLCAncGFnZSc6IDAsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L2RpYnVqb3NfZmF2b3JpdG9zLnBuZyd9",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR - DOCUMENTALES FAVORITOS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2ffav.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdjb250ZXh0TWVudSc6IFsodSdNYXJjYXIgY29tbyB2aXN0bycsICdYQk1DLlJ1blBsdWdpbihwbHVnaW46Ly9wbHVnaW4udmlkZW8ucGFsYW50aXIyLz9leWR6WldGemIyNWZhV1FuT2lBbkp5d2dKMk52Ym5SbGJuUW5PaUFuYlc5MmFXVnpKeXdnSjNSdFpHSW5PaUFuSnl3Z0oyVndhWE52WkdVbk9pQW5KeXdnSjJGamRHbHZiaWM2SUNkdmFXOHdUMDh3VDA5UFR5ZDkpJyldLCAnZmFuYXJ0JzogJ0M6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5wYWxhbnRpcjJcXGZhbmFydC5naWYnLCAnbGFiZWwnOiB1J1tDT0xPUiBjaG9jb2xhdGVdUGVsXHhlZGN1bGFzOlsvQ09MT1JdW0NPTE9SIGdvbGRdUGVsXHhlZGN1bGFzIGRvY3VtZW50YWxlcyBmYXZvcml0YXNbL0NPTE9SXScsICdjb250ZW50JzogJ21vdmllcycsICdzcWwnOiB1IlNFTEVDVCBub21icmUsIGFubm8sIHNpbm9wc2lzLCBjYXJhdHVsYSwgcG9zdGVyLCBncm91cF9pZCwgR1JPVVBfQ09OQ0FUKHRhZ3MsJyMnKSx0bWRiIEZST00gcGVsaXMgV0hFUkUgYWN0aXZlID4gMCBhbmQgY2F0ZWdvcnkgUkVHRVhQICdEb2N1bWVudGFsJyBhbmQgZ3JvdXBfaWQgaW4gKCVzKSBncm91cCBieSBncm91cF9pZCBvcmRlciBieSBub21icmUgQ09MTEFURSBsYXRpbjE7IiwgJ2FjdGlvbic6IHUnb2kwbzBPME9PJywgJ3BhZ2UnOiAwLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9mYXYucG5nJ30%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR - DIBUJOS FAVORITOS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2fdibujos_favoritos.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdjb250ZXh0TWVudSc6IFsodSdNYXJjYXIgY29tbyB2aXN0bycsICdYQk1DLlJ1blBsdWdpbihwbHVnaW46Ly9wbHVnaW4udmlkZW8ucGFsYW50aXIyLz9leWR6WldGemIyNWZhV1FuT2lBbkp5d2dKMk52Ym5SbGJuUW5PaUFuYlc5MmFXVnpKeXdnSjNSdFpHSW5PaUFuSnl3Z0oyVndhWE52WkdVbk9pQW5KeXdnSjJGamRHbHZiaWM2SUNkdmFXOHdUMDh3VDA5UFR5ZDkpJyldLCAnZmFuYXJ0JzogJ0M6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5wYWxhbnRpcjJcXGZhbmFydC5naWYnLCAnbGFiZWwnOiB1J1tDT0xPUiBjaG9jb2xhdGVdUGVsXHhlZGN1bGFzOlsvQ09MT1JdW0NPTE9SIGdvbGRdUGVsXHhlZGN1bGFzIGRlIGRpYnVqb3MgZmF2b3JpdGFzWy9DT0xPUl0nLCAnY29udGVudCc6ICdtb3ZpZXMnLCAnc3FsJzogdSJTRUxFQ1Qgbm9tYnJlLCBhbm5vLCBzaW5vcHNpcywgY2FyYXR1bGEsIHBvc3RlciwgZ3JvdXBfaWQsIEdST1VQX0NPTkNBVCh0YWdzLCcjJyksdG1kYiBGUk9NIHBlbGlzIFdIRVJFIGFjdGl2ZSA%2BIDAgYW5kIGNhdGVnb3J5IFJFR0VYUCAnRGlidWpvcycgYW5kIGdyb3VwX2lkIGluICglcykgZ3JvdXAgYnkgZ3JvdXBfaWQgb3JkZXIgYnkgbm9tYnJlIENPTExBVEUgbGF0aW4xOyIsICdhY3Rpb24nOiB1J29pMG8wTzBPTycsICdwYWdlJzogMCwgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3QvZGlidWpvc19mYXZvcml0b3MucG5nJ30%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PALANTIR - ANIMES FAVORITOS</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://https%3a%2f%2fgithub.com%2fPalantiraddon%2fPalantir%2fraw%2fmaster%2fmedia%2fabstract%2ffav.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydvcmRlbic6IDIsICdjb250ZXh0TWVudSc6IFsodSdNYXJjYXIgY29tbyB2aXN0bycsICdYQk1DLlJ1blBsdWdpbihwbHVnaW46Ly9wbHVnaW4udmlkZW8ucGFsYW50aXIyLz9leWR6WldGemIyNWZhV1FuT2lBbkp5d2dKMk52Ym5SbGJuUW5PaUFuYlc5MmFXVnpKeXdnSjNSdFpHSW5PaUFuSnl3Z0oyVndhWE52WkdVbk9pQW5KeXdnSjJGamRHbHZiaWM2SUNkdmFXOHdUMDh3VDA5UFR5ZDkpJyldLCAnZmFuYXJ0JzogJ0M6XFxQcm9ncmFtIEZpbGVzXFxLb2RpXFxwb3J0YWJsZV9kYXRhXFxhZGRvbnNcXHBsdWdpbi52aWRlby5wYWxhbnRpcjJcXGZhbmFydC5naWYnLCAnbGFiZWwnOiB1J1tDT0xPUiBjaG9jb2xhdGVdUGVsXHhlZGN1bGFzOlsvQ09MT1JdW0NPTE9SIGdvbGRdUGVsXHhlZGN1bGFzIEFuaW1lIGZhdm9yaXRhc1svQ09MT1JdJywgJ2NvbnRlbnQnOiAnbW92aWVzJywgJ3NxbCc6IHUiU0VMRUNUIG5vbWJyZSwgYW5ubywgc2lub3BzaXMsIGNhcmF0dWxhLCBwb3N0ZXIsIGdyb3VwX2lkLCBHUk9VUF9DT05DQVQodGFncywnIycpLHRtZGIgRlJPTSBwZWxpcyBXSEVSRSBhY3RpdmUgPiAwIGFuZCBjYXRlZ29yeSBSRUdFWFAgJ0FuaW1lJyBhbmQgZ3JvdXBfaWQgaW4gKCVzKSBncm91cCBieSBncm91cF9pZCBvcmRlciBieSBub21icmUgQ09MTEFURSBsYXRpbjE7IiwgJ2FjdGlvbic6IHUnb2kwbzBPME9PJywgJ3BhZ2UnOiAwLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9mYXYucG5nJ30%3D",return)</action>
+		<disabled>True</disabled>
+	</shortcut>
+</shortcuts>

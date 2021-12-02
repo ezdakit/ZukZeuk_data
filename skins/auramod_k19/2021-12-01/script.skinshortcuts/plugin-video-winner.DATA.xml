@@ -1,0 +1,26 @@
+<shortcuts>
+	<shortcut>
+		<defaultID>plugin.video.winner</defaultID>
+		<label>[B][/B][COLOR aqua][/COLOR]WINNER</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/soccer.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.winner",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]EN VIVO[/B]</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/soccer.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.winner/?c1JaZUhKRDl2Tzkw",return)</action>
+		</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[B]FÚTBOL[/B]</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/soccer.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.winner/?c1JaZUhKRDlUMjliZktKMHpUVXpNS01sbTNEMEZCMVRJUFVjTkhrWERSV1RLUD09",return)</action>
+		</shortcut>
+	</shortcuts>

@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>BUSCAR</label>
+		<label2>Complemento de Vídeo</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv-search.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1CdXNjYXIgcG9yIHRceGVkdHVsb1svQ09MT1JdJywgJ3NxbCc6IHUnJXMnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L3JlYnVzY2FyLnBuZycsICdhY3Rpb24nOiB1J2J1c2NhcicsICdwYWdlJzogMH0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>FAVORITOS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/favourite.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1GYXZvcml0b3NbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsIGZhbmFydCBmcm9tIG1lbnVzIHdoZXJlIG1lbnVfaWQ9OTAgIE9SREVSIGJ5IGl0ZW1faWQgYXNjJywgJ2ZhbmFydCc6ICcvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8ucGFsYW50aXIyL2ZhbmFydC5naWYnLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9mYXYucG5nJywgJ2FjdGlvbic6ICdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>PELIS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/director.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1QZWxceGVkY3VsYXNbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD0yMCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L3BlbGljdWxhcy5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>SERIES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/tv.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1TZXJpZXNbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD00MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L3Nlcmllcy5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DOCUMENTALES</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/cinemavision.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1Eb2N1bWVudGFsZXNbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD04MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L2RvY3VtZW50YWxlcy5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DIBUJOS</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/mickey.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1EaWJ1am9zWy9DT0xPUl0nLCAnc3FsJzogdSdzZWxlY3QgbGFiZWwsYWN0aW9uLGljb24sc3FsLGZhbmFydCBmcm9tIG1lbnVzIHdoZXJlIG1lbnVfaWQ9NTAgIE9SREVSIGJ5IGl0ZW1faWQgYXNjJywgJ2ZhbmFydCc6ICcvc3RvcmFnZS9lbXVsYXRlZC8wL0FuZHJvaWQvZGF0YS9vcmcueGJtYy5rb2RpL2ZpbGVzLy5rb2RpL2FkZG9ucy9wbHVnaW4udmlkZW8ucGFsYW50aXIyL2ZhbmFydC5naWYnLCAnaWNvbic6IHUnaHR0cHM6Ly9naXRodWIuY29tL1BhbGFudGlyYWRkb24vUGFsYW50aXIvcmF3L21hc3Rlci9tZWRpYS9hYnN0cmFjdC9kaWJ1am9zLnBuZycsICdhY3Rpb24nOiB1J21lbnUnLCAncGFnZSc6IDB9",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>ANIME</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/mangas.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1BbmltZVsvQ09MT1JdJywgJ3NxbCc6IHUnc2VsZWN0IGxhYmVsLGFjdGlvbixpY29uLHNxbCxmYW5hcnQgZnJvbSBtZW51cyB3aGVyZSBtZW51X2lkPTYwICBPUkRFUiBieSBpdGVtX2lkIGFzYycsICdmYW5hcnQnOiAnL3N0b3JhZ2UvZW11bGF0ZWQvMC9BbmRyb2lkL2RhdGEvb3JnLnhibWMua29kaS9maWxlcy8ua29kaS9hZGRvbnMvcGx1Z2luLnZpZGVvLnBhbGFudGlyMi9mYW5hcnQuZ2lmJywgJ2ljb24nOiB1J2h0dHBzOi8vZ2l0aHViLmNvbS9QYWxhbnRpcmFkZG9uL1BhbGFudGlyL3Jhdy9tYXN0ZXIvbWVkaWEvYWJzdHJhY3QvYW5pbWUucG5nJywgJ2FjdGlvbic6IHUnbWVudScsICdwYWdlJzogMH0%3D",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MÚSICA</label>
+		<label2>Ítem Personalizado</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>special://skin/extras/icons/music.png</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.palantir2/?eydjb250ZW50JzogJ2ZpbGVzJywgJ29yZGVuJzogMSwgJ2xhYmVsJzogdSdbQ09MT1IgZ29sZF1NdXNpY2FbL0NPTE9SXScsICdzcWwnOiB1J3NlbGVjdCBsYWJlbCxhY3Rpb24saWNvbixzcWwsZmFuYXJ0IGZyb20gbWVudXMgd2hlcmUgbWVudV9pZD03MCAgT1JERVIgYnkgaXRlbV9pZCBhc2MnLCAnZmFuYXJ0JzogJy9zdG9yYWdlL2VtdWxhdGVkLzAvQW5kcm9pZC9kYXRhL29yZy54Ym1jLmtvZGkvZmlsZXMvLmtvZGkvYWRkb25zL3BsdWdpbi52aWRlby5wYWxhbnRpcjIvZmFuYXJ0LmdpZicsICdpY29uJzogdSdodHRwczovL2dpdGh1Yi5jb20vUGFsYW50aXJhZGRvbi9QYWxhbnRpci9yYXcvbWFzdGVyL21lZGlhL2Fic3RyYWN0L211c2ljYS5wbmcnLCAnYWN0aW9uJzogdSdtZW51JywgJ3BhZ2UnOiAwfQ%3D%3D",return)</action>
+	</shortcut>
+</shortcuts>
