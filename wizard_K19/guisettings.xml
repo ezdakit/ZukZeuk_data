@@ -156,7 +156,7 @@
     <setting id="slideshow.highqualitydownscaling" default="true">false</setting>
     <setting id="locale.audiolanguage" default="true">mediadefault</setting>
     <setting id="videoplayer.preferdefaultflag" default="true">true</setting>
-    <setting id="locale.subtitlelanguage" default="true">original</setting>
+    <setting id="locale.subtitlelanguage">Spanish</setting>
     <setting id="subtitles.parsecaptions" default="true">false</setting>
     <setting id="subtitles.align" default="true">0</setting>
     <setting id="subtitles.stereoscopicdepth" default="true">0</setting>
@@ -169,13 +169,13 @@
     <setting id="subtitles.bgcolor" default="true">0</setting>
     <setting id="subtitles.bgopacity" default="true">0</setting>
     <setting id="subtitles.overrideassfonts" default="true">false</setting>
-    <setting id="subtitles.languages" default="true">English</setting>
+    <setting id="subtitles.languages">English,Spanish</setting>
     <setting id="subtitles.storagemode" default="true">0</setting>
     <setting id="subtitles.custompath" default="true" />
     <setting id="subtitles.pauseonsearch" default="true">true</setting>
     <setting id="subtitles.downloadfirst" default="true">false</setting>
-    <setting id="subtitles.tv" default="true" />
-    <setting id="subtitles.movie" default="true" />
+    <setting id="subtitles.tv">service.subtitles.opensubtitles</setting>
+    <setting id="subtitles.movie">service.subtitles.opensubtitles</setting>
     <setting id="accessibility.audiovisual" default="true">false</setting>
     <setting id="accessibility.audiohearing" default="true">false</setting>
     <setting id="accessibility.subhearing" default="true">false</setting>
@@ -453,7 +453,7 @@
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>
         </eventlog>
-        <systemtotaluptime>2468</systemtotaluptime>
+        <systemtotaluptime>2866</systemtotaluptime>
     </general>
     <resolutions />
     <defaultvideosettings>
