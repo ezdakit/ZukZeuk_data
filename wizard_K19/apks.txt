@@ -1,4 +1,4 @@
-name="AceStreamCoreLive-3.1.67.3-armv7_mod"
+name="AceStreamCoreLive"
 section="no"
 url="https://github.com/ezdakit/ZukZeuk_data/releases/download/APKs/AceStreamCoreLive-3.1.67.3-armv7_mod.apk"
 icon="http://"
