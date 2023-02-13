@@ -3,7 +3,7 @@ version="1.0.0"
 zip="url.to.wizard"
 
 name="Base ZukZeuk2"
-version="1.1"
+version="1.0"
 url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k19_auramod_1-0.zip"
 minor="http://"
 gui="http://"
