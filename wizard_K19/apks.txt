@@ -8,7 +8,7 @@ description="AceStreamCoreLive-3.1.67.3-armv7_mod."
 
 name="ElementumService-universal"
 section="no"
-url="https://github.com/ezdakit/ZukZeuk_data/releases/download/APKs/ElementumService-universal-release-0.1.860040.apk"
+url="https://github.com/ezdakit/ZukZeuk_data/releases/download/APKs/ElementumService-universal-release-0.1.870001.apk"
 icon="http://"
 fanart="http://"
 adult="no"
