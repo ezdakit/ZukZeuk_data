@@ -18,7 +18,7 @@ description="ZukZeuk build kodi 19."
 
 name="Build Kodi20 ZukZeuk2"
 version="1.3"
-url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k20_auramod_1-3.zip"
+url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k20_auramod_2-0.zip"
 minor="http://"
 gui="http://"
 kodi="20"
