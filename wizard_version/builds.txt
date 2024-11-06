@@ -2,7 +2,7 @@ id="plugin.program.zukzeuk2"
 version="2.4.1"
 zip="url.to.wizard"
 
-name="K21 ESTUARY MOD"
+name="K21 AiO"
 version="21.3"
 url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k21_EMODV2_21-3.zip"
 minor="http://"
