@@ -1,5 +1,5 @@
 id="plugin.program.zukzeuk2"
-version="2.4.1"
+version="2.4.4"
 zip="url.to.wizard"
 
 name="K21 AiO"
@@ -17,8 +17,8 @@ info="url.to.info"
 description="AiO ZukZeuk build kodi 21."
 
 name="K21 PALANTIR"
-version="21.4"
-url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k21_ESTPAL_21-4.zip"
+version="21.5"
+url="https://github.com/ezdakit/ZukZeuk_data/releases/download/builds/build_zukzeuk_k21_ESTPAL_21-5.zip"
 minor="http://"
 gui="http://"
 kodi="21"
